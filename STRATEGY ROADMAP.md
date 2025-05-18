@@ -67,7 +67,7 @@ So, First lets implement well known strategies, Here's the list of Strategies we
 | **Greeks (Delta, Gamma, Theta, Vega)** | Risk + behavior understanding |
 | **IV Rank & IV Percentile** | Entry filters |
 | **Liquidity filters** | Avoid NaN/illiquid data points |
-
+| **Local Volatality Model** | Dupire's eqn |
      
       
 
