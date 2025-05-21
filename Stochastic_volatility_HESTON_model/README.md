@@ -1,0 +1,3 @@
+## HESTON MODEL
+
+The Heston Stochastic Volatility Model simulates asset prices and variance under stochastic volatility, capturing volatility smiles and clustering. This project calibrates the Heston model to SPXW ATM call IVs from 1-minute SPX/SPXW data (May 15–31, 2024) using Inverse Black-Scholes, applies filters for valid option prices (>0) and time to expiration (7-60 days), and prices options via Monte Carlo simulation. It forecasts volatility paths, visualizes price/volatility simulations, and exports results to Excel. Applications include options pricing, volatility forecasting, and arbitrage
